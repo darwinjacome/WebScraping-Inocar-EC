@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D6AB0E37-DBD2-406C-A503-344B15E9CCCF}</ProjectGuid>
+    <ProjectGuid>{86FEF986-6ECB-499A-82C6-38F52CB0A3A5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>CalendarioAguaje</RootNamespace>
