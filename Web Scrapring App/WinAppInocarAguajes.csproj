@@ -90,8 +90,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CalendarioAguaje\WebScrapringSharp.csproj">
-      <Project>{d6ab0e37-dbd2-406c-a503-344b15e9cccf}</Project>
+    <ProjectReference Include="..\WebScrapringSharp\WebScrapringSharp.csproj">
+      <Project>{6781fcf4-0fee-4e9e-bca7-da528710337d}</Project>
       <Name>WebScrapringSharp</Name>
     </ProjectReference>
   </ItemGroup>
