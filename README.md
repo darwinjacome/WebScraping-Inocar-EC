@@ -5,3 +5,7 @@ Aplicación de Escritorio que implementa Web Scrapring para descargar el calenda
 
 NOTA: Librería v3.1.1 Terminada a un 100%
 Documentación actualizada el día: 01/05/2020
+
+
+Descripción
+Esta librería fue desarrollada para Crear, Leer y eliminar llaves del registro de Windows (REGEDIT) y poder realizarlo de la manera más sencilla posible.
