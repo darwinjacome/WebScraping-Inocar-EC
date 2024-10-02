@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Data;
 using System.Windows.Forms;
-using WebScrapringSharp;
 
 namespace WinAppInocarAguajes
 {
@@ -18,7 +17,7 @@ namespace WinAppInocarAguajes
 
             string url = string.Format(this.txtUrl.Text, año);
 
-            DataTable dtDiasAguaje = new Scrapring().ObtenerTabla(url);
+            DataTable dtDiasAguaje = new Aguajes().ObtenerTabla(url);
 
             this.dataGridView1.DataSource = dtDiasAguaje;
         }

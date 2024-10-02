@@ -72,9 +72,9 @@
             // 
             // txtUrl
             // 
-            this.txtUrl.Location = new System.Drawing.Point(433, 33);
+            this.txtUrl.Location = new System.Drawing.Point(403, 40);
             this.txtUrl.Name = "txtUrl";
-            this.txtUrl.Size = new System.Drawing.Size(323, 20);
+            this.txtUrl.Size = new System.Drawing.Size(353, 20);
             this.txtUrl.TabIndex = 5;
             this.txtUrl.Text = "https://www.inocar.mil.ec/mareas/consultar_aguajes.php?anio={0}";
             this.txtUrl.Visible = false;
